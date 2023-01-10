@@ -3,17 +3,16 @@
 
 <!-- Social Media Banners -->
 
+<div align="center">
 <a href="https://github.com/Naim-Bijapure" target="_blank"> ![Github: Naim-Bijapure](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github)</a>
 <a href="https://www.linkedin.com/in/naim-bijapure-614034126" target="_blank">![LinkedIn: naim-bijapure-614034126](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 <a href="https://twitter.com/naim_1004" target="_blank">[![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com)</a>
 
-</p>
+</div>
 
 <!-- Language and Tools -->
-
+<div align="center">
 ### 🛠 &nbsp;Tech Stack
-
-<p align="center">
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -38,7 +37,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-</p>
+</div>
 
 <!-- Github Statistics Cards -->
 
