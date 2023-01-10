@@ -4,9 +4,9 @@
 <!-- Social Media Banners -->
 
 
-<h4 align="center">You can reach me at :alien:</h4>
+<h4 align="left">You can reach me at :alien:</h4>
 
-<p align="center" >
+<p align="left" >
 <a target="_blank" href="https://www.linkedin.com/in/naim-bijapure-614034126/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="mailto:naimbijapure7407@gmail.com"
@@ -17,9 +17,9 @@
 
 <!-- Language and Tools -->
 
-<h4 align="center">🛠 &nbsp;Toolbox </h4>
+<h4 align="left">🛠 &nbsp;Toolbox </h4>
 
-<div align="center">
+<div align="left">
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
