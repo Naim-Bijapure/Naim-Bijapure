@@ -3,11 +3,9 @@
 
 <!-- Social Media Banners -->
 
-<div align="center">
 [![Github: Naim-Bijapure](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github)](https://github.com/Naim-Bijapure)
 [![LinkedIn: naim-bijapure-614034126](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)](https://www.linkedin.com/in/naim-bijapure-614034126)
 [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com)
-</div>
 
 <!-- Language and Tools -->
 <div align="center">
