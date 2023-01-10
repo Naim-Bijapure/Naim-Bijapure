@@ -4,7 +4,7 @@
 <!-- Social Media Banners -->
 
 
-<h2 align="center">You can reach me at :alien:</h2>
+<h4 align="center">You can reach me at :alien:</h4>
 
 <p align="center" >
 <a target="_blank" href="https://www.linkedin.com/in/naim-bijapure-614034126/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
