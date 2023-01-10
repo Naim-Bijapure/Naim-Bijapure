@@ -3,19 +3,16 @@
 
 <!-- Social Media Banners -->
 
-[![Github: Naim-Bijapure](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github)](https://github.com/Naim-Bijapure)
-[![LinkedIn: naim-bijapure-614034126](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)](https://www.linkedin.com/in/naim-bijapure-614034126)
-[![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com)
 
-<p align="center" >Connect with me:
-<br>	
+<h2 align="center">You can reach me at :alien:</h2>
+
+<p align="center" >
 <a target="_blank" href="https://www.linkedin.com/in/naim-bijapure-614034126/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="mailto:naimbijapure7407@gmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="https://twitter.com/naim_1004"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-
 </p>
 
 <!-- Language and Tools -->
